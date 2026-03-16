@@ -1,2 +1,4 @@
 This a test1.txt
 Adding a new line in the test1.txt
+Adding a line from branch1.
+Adding from the main.
